@@ -13,10 +13,10 @@ You will notice that they call Geant "Geant4".
 They also have a patch level for a patch level as well.
 This does not follow semantic version control, but thanks to tags, you can now see exactly what changes from a patch's patch to a minor version bump.
 
-The goals of creating this repository are:
+The goals for creating this repository are:
 
-  1. Use the open source community as well as professional developers. __Not__ individuals without a professional background in software engineering. They have done enough hard work in bootstrapping this project, its time they received some help from the open source community.
-  2. Properly version control the software. You'll notice that there's a folder called `ReleaseNotes`. Its a pity that someone had to document the changes. Its time the open source community eases that pain on scientists with version control.
-  3. Use the insights of the open source community to begin refactoring the software. This includes helping generate tests, documenting known issues/bugs, and increasing the simulations performance while also moving away from a dead language (\*cough\* fortran...).
+  1. To use the open source community as well as professional developers.
+  2. To properly version control the software.
+  3. To use the insights of the open source community to begin refactoring the software.
 
-These goals are here to help the scientific community be able to improve their research.
+These goals are here to aid the scientific community and allow allow scientists to spend more time doing what they do best: facilitating experiments.
