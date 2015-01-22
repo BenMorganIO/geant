@@ -15,11 +15,11 @@ This does not follow semantic version control, but thanks to tags, you can now s
 
 The goals for creating this repository are:
 
-  1. To use the open source community as well as professional developers.
+  1. To use the talent of the open source community.
   2. To properly version control the software.
-  3. To use the insights of the open source community to begin refactoring the software.
+  3. To help refactor the software.
 
-These goals are here to aid the scientific community and allow allow scientists to spend more time doing what they do best: facilitating experiments.
+These goals are here to aid the scientific community and allow scientists to spend more time doing what they love: science.
 
 ## Documentation and Guides
 
